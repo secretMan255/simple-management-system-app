@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Management Suite",
+  "description": "A comprehensive, AI-enhanced management system featuring real-time dashboards, inventory control, sales tracking, and crew management. Built with TanStack Query and powered by Gemini for intelligent insights.",
+  "requestFramePermissions": []
+}
